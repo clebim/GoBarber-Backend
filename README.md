@@ -1,2 +1,2 @@
 # GoBarber-Backend
-bootcamp rocktseat
+api for scheduling at the barber
